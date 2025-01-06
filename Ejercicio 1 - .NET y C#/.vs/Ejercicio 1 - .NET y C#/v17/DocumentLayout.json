@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultad\\TEST-TECNICO\\Ejercicio 1 - .NET y C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD9E328-6228-4FD6-A531-D2283AF71887}|Ejercicio 1 - .NET y C#.csproj|d:\\facultad\\test-tecnico\\ejercicio 1 - .net y c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD9E328-6228-4FD6-A531-D2283AF71887}|Ejercicio 1 - .NET y C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD9E328-6228-4FD6-A531-D2283AF71887}|Ejercicio 1 - .NET y C#.csproj|d:\\facultad\\test-tecnico\\ejercicio 1 - .net y c#\\catbreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD9E328-6228-4FD6-A531-D2283AF71887}|Ejercicio 1 - .NET y C#.csproj|solutionrelative:catbreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Facultad\\TEST-TECNICO\\Ejercicio 1 - .NET y C#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Facultad\\TEST-TECNICO\\Ejercicio 1 - .NET y C#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T18:40:04.598Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatBreed.cs",
+              "DocumentMoniker": "D:\\Facultad\\TEST-TECNICO\\Ejercicio 1 - .NET y C#\\CatBreed.cs",
+              "RelativeDocumentMoniker": "CatBreed.cs",
+              "ToolTip": "D:\\Facultad\\TEST-TECNICO\\Ejercicio 1 - .NET y C#\\CatBreed.cs",
+              "RelativeToolTip": "CatBreed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T18:40:49.757Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
